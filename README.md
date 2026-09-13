@@ -1,29 +1,18 @@
 <div align="center">
 
-# Saif El-din Hassan Aburaia
+# Hi, I'm Saif El-din Aburaia 👋
+
 ### AI & Automation Engineer | Data Scientist
 
-Cairo, Egypt • [saifaburaia.site](https://saifaburaia.site) • [saif.aburaia@gmail.com](mailto:saif.aburaia@gmail.com)
+Building intelligent systems at the intersection of AI, automation, embedded systems, and real-world business solutions.
 
----
+<br />
 
-<!-- Verified Programming Languages -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-<!-- Verified Core Engineering Domains -->
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-gray?style=flat-square" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-gray?style=flat-square" alt="ML" />
-  <img src="https://img.shields.io/badge/Computer_Vision-gray?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Data_Science_%26_Analytics-gray?style=flat-square" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Embedded_Systems_%26_Robotics-gray?style=flat-square" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Automation-gray?style=flat-square" alt="Automation" />
+  <a href="https://saifaburaia.site"><img src="https://img.shields.io/badge/Website-saifaburaia.site-0052CC?style=flat-square&logo=globe&logoColor=white" alt="Website" /></a>
+  <a href="mailto:saif.aburaia@gmail.com"><img src="https://img.shields.io/badge/Email-saif.aburaia%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/2buraia"><img src="https://img.shields.io/badge/GitHub-2buraia-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
@@ -32,75 +21,107 @@ Cairo, Egypt • [saifaburaia.site](https://saifaburaia.site) • [saif.aburaia@
 
 ## 📌 About Me
 
-Motivated **AI and Automation Engineer** with dual training in mechatronics systems and business information systems. Experienced in developing intelligent systems using Python, Arduino, and automation technologies. Skilled in machine learning and deep learning, with hands-on experience building innovative AI-driven projects such as smart control and voice recognition systems. Recognized by **UNESCO** for innovation and awarded by the **German-Arab Chamber of Industry and Commerce (GACIC)** for passing a hands-on and theoretical mechatronics examination.
+I am an **AI & Automation Engineer** with dual training in mechatronics systems and business information systems. My work centers on developing practical, intelligent solutions that bridge machine learning, computer vision, and embedded hardware automation. From deploying commercial multi-branch enterprise platforms to developing an Arduino-based voice control project recognized by UNESCO, I specialize in building robust systems that solve real-world operational challenges.
 
 ---
 
-## 🛠️ Core Capabilities
+## 💻 Tech Stack & Core Domains
 
-| Domain | Technical Focus & Capabilities |
-| :--- | :--- |
-| **Artificial Intelligence & Deep Learning** | Supervised & Unsupervised Learning, Neural Networks, CNN-Based Vision Models, Model Training & Deployment, Real-Time Inference Systems |
-| **Computer Vision** | Gesture Recognition, Incident Detection, Real-Time Video Stream Analysis |
-| **Embedded Systems & Robotics** | Wheeled Robots, Motor Drivers, Sensor Integration, Arduino-Based Systems, Real-Time Hardware Interfacing, Motor Control Systems |
-| **Data Science & Analytics** | Data Analysis, Data Visualization, Dynamic Dashboard Development, Operational Insights Generation |
-| **System Development & Automation** | Attendance Management Systems, Admin Dashboards, User Management, Reporting Systems, Workflow Automation |
-| **UI/UX & Digital Design** | Interface Design, User Experience, Visual Design |
+#### Programming & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+#### Engineering Specializations
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-1E293B?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer_Vision-1E293B?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Data_Science-1E293B?style=flat-square" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-1E293B?style=flat-square" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Robotics-1E293B?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Automation-1E293B?style=flat-square" alt="Automation" />
+</p>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-> *Note: Repositories are currently being prepared with full documentation and architecture specifications.*
+> *Selected project repositories and technical documentation are currently being prepared for publication.*
 
-### 🤖 AI-Powered Sign Language Translator (SINGNIFY App)
-* Computer vision and machine learning system that translates sign language gestures into text and speech in real time.
-* **Status:** `Repository preparation in progress`
-
-### 📹 AI Surveillance System for Violence & Harassment Detection
-* Computer vision model designed to detect violence and harassment in camera feeds and dispatch automated alerts to administration.
-* **Status:** `Repository preparation in progress`
-
-### 🏢 Cross-Platform Attendance Management System
-* Commercial attendance platform developed and deployed for iOS, Android, and PC across 12+ branches of an optical retail business.
-* Secured employee check-ins via device-bound accounts, biometric authentication, and location-based validation to prevent proxy attendance.
-* **Status:** `Repository preparation in progress`
-
-### 📊 Real-Time Data Analytics Dashboard
-* Dynamic company monitoring dashboard updating automatically to track and visualize operational events and metrics.
-* **Status:** `Repository preparation in progress`
-
-### 🏆 Voice-Controlled Smart Model (Arduino)
-* Voice-controlled embedded system integrating Arduino and mobile device control for smart actuation.
-* **Recognized by UNESCO for innovation and execution.**
-* **Status:** `Repository preparation in progress`
-
-### 💡 Motion-Activated Lighting System
-* Automated lighting control system utilizing motion sensors and Python for real-time contact-free control based on hand gestures.
-* **Status:** `Repository preparation in progress`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤟 AI-Powered Sign Language Translator (SINGNIFY App)</b>
+      <br /><br />
+      Real-time computer vision and machine learning system translating hand gesture signs into synchronized text and speech.
+      <br /><br />
+      <code>Computer Vision</code> • <code>Machine Learning</code> • <code>Real-Time Systems</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>📹 AI Surveillance System for Violence & Harassment Detection</b>
+      <br /><br />
+      Vision-based monitoring pipeline analyzing camera feeds to detect aggressive incidents and automatically trigger administrative alerts.
+      <br /><br />
+      <code>Computer Vision</code> • <code>Deep Learning</code> • <code>Automation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏢 Cross-Platform Attendance Management System</b>
+      <br /><br />
+      Commercial attendance platform deployed across 12+ retail optical branches featuring biometric validation, device-bound accounts, and location-based attendance validation.
+      <br /><br />
+      <code>System Development</code> • <code>Biometrics</code> • <code>Workflow Automation</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Real-Time Data Analytics Dashboard</b>
+      <br /><br />
+      Dynamic operational monitoring dashboard providing automated visualization of company operations, event tracking, and business metrics.
+      <br /><br />
+      <code>Data Science</code> • <code>Data Visualization</code> • <code>Analytics</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎙️ Voice-Controlled Smart Model (Arduino)</b>
+      <br /><br />
+      Embedded microcontroller system integrating mobile voice commands with real-time hardware actuation. Recognized by <strong>UNESCO</strong> for innovation.
+      <br /><br />
+      <code>Embedded Systems</code> • <code>Arduino</code> • <code>Mobile Integration</code> • <code>Smart Device Control</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>💡 Motion-Activated Lighting System</b>
+      <br /><br />
+      Contact-free automated lighting controller utilizing physical motion sensors and Python hand-gesture tracking for real-time environment control.
+      <br /><br />
+      <code>Automation</code> • <code>Python</code> • <code>Sensors</code> • <code>Embedded Control</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-* **Founder & Technical Lead** — Elevat / Elevate Tech Solution *(legal spelling pending confirmation)*
-  * Led the planning and execution of software, automation, embedded systems, and management solutions.
-  * Translated client requirements into system workflows and technical implementation plans.
-* **AI & Machine Learning Instructor**
-  * Taught AI, machine learning, Python, and computer vision concepts to students aged 10–18 through hands-on activities.
-* **System Analyst Intern** — Unitechs
-  * Analyzed client requirements, contributed to business system design, and supported workflow documentation.
-* **Internship** — EGYTRAFO Group (Transformers Industry)
-  * Field training in electronics, industrial electrical systems, transformers, electric motors, and robotics integration.
+* **Founder & Technical Lead** — Directed technical planning, system design, and delivery across software development, automation, and embedded solutions.
+* **AI & Machine Learning Instructor** — Delivered hands-on training in Python, computer vision, and machine learning fundamentals to students aged 10–18.
+* **System Analyst Intern — Unitechs** — Analyzed business requirements and contributed to system architecture design and workflow documentation.
+* **EGYTRAFO Group — Industrial Training** — Completed hands-on industrial training in electric motors, transformers, industrial automation, and robotics integration.
 
 ---
 
-## 🎖️ Honors & Professional Training
+## 🎖️ Honors & Training
 
-* **UNESCO Recognition:** Recognized for innovative Arduino-based voice control project.
+* **UNESCO:** Recognized for innovative Arduino-based voice control project.
 * **German-Arab Chamber of Industry and Commerce (GACIC):** Awarded for passing a hands-on and theoretical mechatronics examination.
-* **Orange Digital / Orange Training Program:** Completed professional training in AI Automation, workflow automation, and real-world AI business integration.
-* **Instant Academy:** Completed intensive Artificial Intelligence Diploma (170+ Hours) covering Machine Learning, Deep Learning, Data Science, and AI applications.
+* **Orange Digital / Orange Training Program:** Completed specialized training in AI Automation and business process integration.
+* **Instant Academy:** Completed intensive 170+ hour Artificial Intelligence Diploma covering Machine Learning, Deep Learning, and Data Science.
 
 ---
 
@@ -113,7 +134,12 @@ Motivated **AI and Automation Engineer** with dual training in mechatronics syst
 
 ## 📬 Connect
 
-* **Website:** [saifaburaia.site](https://saifaburaia.site)
-* **Email:** [saif.aburaia@gmail.com](mailto:saif.aburaia@gmail.com)
-* **Location:** Cairo, Egypt
-* **GitHub:** [@2buraia](https://github.com/2buraia)
+*Let's build intelligent systems that solve real-world problems.*
+
+<br />
+
+<p>
+  <a href="https://saifaburaia.site"><img src="https://img.shields.io/badge/Website-saifaburaia.site-0052CC?style=flat-square&logo=globe&logoColor=white" alt="Website" /></a>
+  <a href="mailto:saif.aburaia@gmail.com"><img src="https://img.shields.io/badge/Email-saif.aburaia%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/2buraia"><img src="https://img.shields.io/badge/GitHub-2buraia-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
